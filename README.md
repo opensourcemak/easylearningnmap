@@ -29,7 +29,7 @@ Welcome to **Simplify Nmap for Beginners**, a shell script designed to make netw
    ```
 2. Navigate to the directory:
    ```bash
-   cd RepositoryName
+   cd easylearningnmap
    ```
 3. Make the script executable:
    ```bash
