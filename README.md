@@ -25,7 +25,7 @@ Welcome to **Simplify Nmap for Beginners**, a shell script designed to make netw
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/RepositoryName.git
+   git clone (https://github.com/opensourcemak/easylearningnmap.git)
    ```
 2. Navigate to the directory:
    ```bash
